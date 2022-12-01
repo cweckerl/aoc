@@ -15,7 +15,7 @@ fun main() {
             if (tmp > max) {
                 max = tmp
             }
-        tmp = 0
+            tmp = 0
         } else {
             tmp += it.toInt()
         }
